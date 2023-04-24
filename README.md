@@ -5,6 +5,8 @@ The datasets was given in CSV format which was then entered into the SQL server.
 
 Then a list of questions was presented for which different queries was meant to be written to grab the data that was written for the same.
 
+*Tools used - Microsoft SQL Server Management Studio 
+
 # Questions for the queries
 
 Q1. Fetch the top 5 states with the highest GSDP for the year 2018.
